@@ -1,0 +1,20 @@
+# Python virtual environment
+Backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Flutter generated files
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
